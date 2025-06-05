@@ -1,15 +1,15 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KZrr4s3gAAbumMGicqrvVo/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KZrr4s3gAAbumMGicqrvVo/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AHaomuxPQxeKz7KuobWaSY/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AHaomuxPQxeKz7KuobWaSY/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
-          "ac-channel-id": "3851bf8e-9b9f-4543-a0c3-ffca257f5838",
-          "ac-environment-id": "KZrr4s3gAAbumMGicqrvVo",
+          "ac-channel-id": "324a69c5-a433-459c-b571-2d2ba323bf3f",
+          "ac-environment-id": "AHaomuxPQxeKz7KuobWaSY",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US"
         }
