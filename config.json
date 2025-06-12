@@ -12,7 +12,7 @@
           "ac-environment-id": "AHaomuxPQxeKz7KuobWaSY",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US",
-          "Magento-environment-Id": "AHaomuxPQxeKz7KuobWaSY"
+          "Magento-Environment-Id": "AHaomuxPQxeKz7KuobWaSY"
         }
       },
       "analytics": {
@@ -20,7 +20,7 @@
         "environment": "Production",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
+        "store-url": "https://main--commerce-eds--shiftedreality.aem.live",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
