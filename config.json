@@ -23,7 +23,8 @@
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
-        "website-name": "Main Website"
+        "website-name": "Main Website",
+        "environment-id": "AHaomuxPQxeKz7KuobWaSY"
       },
       "plugins": {
         "picker": {
