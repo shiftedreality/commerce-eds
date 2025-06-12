@@ -11,7 +11,8 @@
           "ac-channel-id": "324a69c5-a433-459c-b571-2d2ba323bf3f",
           "ac-environment-id": "AHaomuxPQxeKz7KuobWaSY",
           "ac-price-book-id": "west_coast_inc",
-          "ac-scope-locale": "en-US"
+          "ac-scope-locale": "en-US",
+          "Magento-environment-Id": "AHaomuxPQxeKz7KuobWaSY"
         }
       },
       "analytics": {
