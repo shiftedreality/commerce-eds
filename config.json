@@ -1,18 +1,18 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AHaomuxPQxeKz7KuobWaSY/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/AHaomuxPQxeKz7KuobWaSY/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KZrr4s3gAAbumMGicqrvVo/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KZrr4s3gAAbumMGicqrvVo/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
           "ac-channel-id": "324a69c5-a433-459c-b571-2d2ba323bf3f",
-          "ac-environment-id": "AHaomuxPQxeKz7KuobWaSY",
+          "ac-environment-id": "KZrr4s3gAAbumMGicqrvVo",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US",
-          "Magento-Environment-Id": "AHaomuxPQxeKz7KuobWaSY"
+          "Magento-Environment-Id": "KZrr4s3gAAbumMGicqrvVo"
         }
       },
       "analytics": {
@@ -25,7 +25,7 @@
         "store-view-name": "Default Store View",
         "website-id": 1,
         "website-name": "Main Website",
-        "environment-id": "AHaomuxPQxeKz7KuobWaSY"
+        "environment-id": "KZrr4s3gAAbumMGicqrvVo"
       },
       "plugins": {
         "picker": {
